@@ -23,7 +23,7 @@
             "last_commit": "2026-05-05T16:40:28Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3061
+            "stars": 3063
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-05-05T20:08:19Z",
             "owner": "c4spar",
             "repo": "cliffy",
-            "stars": 1145
+            "stars": 1146
           }
         },
         {
@@ -85,7 +85,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-09T18:11:53Z",
+            "last_commit": "2026-05-08T19:24:51Z",
             "owner": "AhmedOsman101",
             "repo": "commit-sage-cli",
             "stars": 44
@@ -351,7 +351,7 @@
             "last_commit": "2025-06-14T19:16:32Z",
             "owner": "matmen",
             "repo": "ImageScript",
-            "stars": 674
+            "stars": 675
           }
         },
         {
@@ -425,7 +425,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-26T15:18:32Z",
+            "last_commit": "2026-05-08T14:41:14Z",
             "owner": "lumeland",
             "repo": "lume",
             "stars": 2256
@@ -457,10 +457,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-07T02:09:40Z",
+            "last_commit": "2026-05-08T21:17:16Z",
             "owner": "discordeno",
             "repo": "discordeno",
-            "stars": 935
+            "stars": 936
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-04-20T12:52:29Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3560
+            "stars": 3565
           }
         },
         {
@@ -483,7 +483,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-28T11:00:39Z",
+            "last_commit": "2026-05-08T16:20:57Z",
             "owner": "MTKruto",
             "repo": "MTKruto",
             "stars": 162
@@ -518,7 +518,7 @@
             "last_commit": "2026-04-25T18:35:44Z",
             "owner": "bgub",
             "repo": "eta",
-            "stars": 1712
+            "stars": 1713
           }
         },
         {
@@ -862,7 +862,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-07T15:33:35Z",
+            "last_commit": "2026-05-08T22:24:56Z",
             "owner": "a-synchronous",
             "repo": "rubico",
             "stars": 283
@@ -901,7 +901,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-04-29T20:13:20Z",
+            "last_commit": "2026-05-08T05:08:42Z",
             "owner": "bokuweb",
             "repo": "wu-diff-js",
             "stars": 19
@@ -998,10 +998,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-06T11:32:34Z",
+            "last_commit": "2026-05-08T23:18:45Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30342
+            "stars": 30368
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-02-22T08:54:17Z",
             "owner": "oakserver",
             "repo": "oak",
-            "stars": 5405
+            "stars": 5404
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-04-13T01:26:28Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6519
+            "stars": 6520
           }
         },
         {
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:51:38.466Z",
+    "last_updated": "2026-05-09T05:19:22.686Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
