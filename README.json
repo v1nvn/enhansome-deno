@@ -274,7 +274,7 @@
             "last_commit": "2026-05-15T14:22:09Z",
             "owner": "denoland",
             "repo": "fresh",
-            "stars": 13760
+            "stars": 13763
           }
         },
         {
@@ -425,7 +425,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-16T10:53:56Z",
+            "last_commit": "2026-05-17T17:22:09Z",
             "owner": "lumeland",
             "repo": "lume",
             "stars": 2257
@@ -483,7 +483,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-16T16:17:20Z",
+            "last_commit": "2026-05-17T17:52:15Z",
             "owner": "MTKruto",
             "repo": "MTKruto",
             "stars": 161
@@ -675,10 +675,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T21:23:58Z",
+            "last_commit": "2026-05-17T11:02:51Z",
             "owner": "Hexagon",
             "repo": "croner",
-            "stars": 2555
+            "stars": 2556
           }
         },
         {
@@ -1001,7 +1001,7 @@
             "last_commit": "2026-05-17T00:09:03Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30485
+            "stars": 30506
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-04-13T01:26:28Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6529
+            "stars": 6532
           }
         },
         {
@@ -1450,7 +1450,7 @@
             "last_commit": "2026-04-28T16:57:18Z",
             "owner": "denoland",
             "repo": "deno_docker",
-            "stars": 1012
+            "stars": 1013
           }
         },
         {
@@ -1620,7 +1620,7 @@
             "last_commit": "2025-01-04T09:04:00Z",
             "owner": "jersou",
             "repo": "studio-pack-generator",
-            "stars": 118
+            "stars": 119
           }
         },
         {
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-17T05:45:52.248Z",
+    "last_updated": "2026-05-18T06:10:39.242Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
