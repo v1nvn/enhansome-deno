@@ -23,7 +23,7 @@
             "last_commit": "2026-05-05T16:40:28Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3070
+            "stars": 3071
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-05-10T19:44:03Z",
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11486
+            "stars": 11484
           }
         }
       ],
@@ -274,7 +274,7 @@
             "last_commit": "2026-05-15T14:22:09Z",
             "owner": "denoland",
             "repo": "fresh",
-            "stars": 13761
+            "stars": 13763
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-05-16T07:19:42Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3584
+            "stars": 3588
           }
         },
         {
@@ -518,7 +518,7 @@
             "last_commit": "2026-04-25T18:35:44Z",
             "owner": "bgub",
             "repo": "eta",
-            "stars": 1717
+            "stars": 1718
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-05-18T10:05:17Z",
             "owner": "Hexagon",
             "repo": "croner",
-            "stars": 2556
+            "stars": 2557
           }
         },
         {
@@ -962,7 +962,7 @@
             "last_commit": "2024-10-08T23:53:55Z",
             "owner": "drashland",
             "repo": "drash",
-            "stars": 1067
+            "stars": 1068
           }
         },
         {
@@ -998,10 +998,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-17T00:09:03Z",
+            "last_commit": "2026-05-19T11:38:10Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30526
+            "stars": 30540
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-04-13T01:26:28Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6532
+            "stars": 6533
           }
         },
         {
@@ -1476,7 +1476,7 @@
             "last_commit": "2025-07-17T17:22:54Z",
             "owner": "denoland",
             "repo": "dnt",
-            "stars": 1321
+            "stars": 1322
           }
         },
         {
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:05:01.593Z",
+    "last_updated": "2026-05-20T06:04:12.460Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
