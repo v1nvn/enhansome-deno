@@ -177,7 +177,7 @@
             "last_commit": "2023-10-28T10:30:08Z",
             "owner": "eveningkid",
             "repo": "denodb",
-            "stars": 1930
+            "stars": 1929
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-05-16T07:19:42Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3588
+            "stars": 3589
           }
         },
         {
@@ -486,7 +486,7 @@
             "last_commit": "2026-05-17T17:52:15Z",
             "owner": "MTKruto",
             "repo": "MTKruto",
-            "stars": 161
+            "stars": 162
           }
         }
       ],
@@ -518,7 +518,7 @@
             "last_commit": "2026-04-25T18:35:44Z",
             "owner": "bgub",
             "repo": "eta",
-            "stars": 1718
+            "stars": 1720
           }
         },
         {
@@ -1001,7 +1001,7 @@
             "last_commit": "2026-05-19T11:38:10Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30540
+            "stars": 30554
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-04-13T01:26:28Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6533
+            "stars": 6534
           }
         },
         {
@@ -1450,7 +1450,7 @@
             "last_commit": "2026-04-28T16:57:18Z",
             "owner": "denoland",
             "repo": "deno_docker",
-            "stars": 1013
+            "stars": 1014
           }
         },
         {
@@ -1476,7 +1476,7 @@
             "last_commit": "2025-07-17T17:22:54Z",
             "owner": "denoland",
             "repo": "dnt",
-            "stars": 1322
+            "stars": 1323
           }
         },
         {
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:04:12.460Z",
+    "last_updated": "2026-05-21T06:07:15.447Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
