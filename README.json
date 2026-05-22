@@ -23,7 +23,7 @@
             "last_commit": "2026-05-05T16:40:28Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3071
+            "stars": 3072
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-05-10T19:44:03Z",
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11484
+            "stars": 11485
           }
         }
       ],
@@ -177,7 +177,7 @@
             "last_commit": "2023-10-28T10:30:08Z",
             "owner": "eveningkid",
             "repo": "denodb",
-            "stars": 1929
+            "stars": 1928
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2026-05-15T14:22:09Z",
             "owner": "denoland",
             "repo": "fresh",
-            "stars": 13763
+            "stars": 13765
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-05-16T07:19:42Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3589
+            "stars": 3592
           }
         },
         {
@@ -849,7 +849,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2023-10-09T10:02:37Z",
+            "last_commit": "2026-05-21T08:19:26Z",
             "owner": "denorg",
             "repo": "qrcode",
             "stars": 45
@@ -1001,7 +1001,7 @@
             "last_commit": "2026-05-19T11:38:10Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30554
+            "stars": 30560
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-02-22T08:54:17Z",
             "owner": "oakserver",
             "repo": "oak",
-            "stars": 5405
+            "stars": 5406
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-04-13T01:26:28Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6534
+            "stars": 6536
           }
         },
         {
@@ -1354,7 +1354,7 @@
             "last_commit": "2023-10-04T17:12:38Z",
             "owner": "denoflow",
             "repo": "denoflow",
-            "stars": 286
+            "stars": 285
           }
         },
         {
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-21T06:07:15.447Z",
+    "last_updated": "2026-05-22T06:03:18.254Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
