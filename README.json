@@ -20,7 +20,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-05T16:40:28Z",
+            "last_commit": "2026-05-22T14:16:55Z",
             "owner": "cacjs",
             "repo": "cac",
             "stars": 3072
@@ -114,7 +114,7 @@
             "last_commit": "2026-05-10T19:44:03Z",
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11485
+            "stars": 11484
           }
         }
       ],
@@ -229,7 +229,7 @@
             "last_commit": "2025-04-24T10:41:41Z",
             "owner": "denodrivers",
             "repo": "postgres",
-            "stars": 652
+            "stars": 653
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2025-09-03T23:39:47Z",
             "owner": "load1n9",
             "repo": "caviar",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-05-16T07:19:42Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3592
+            "stars": 3597
           }
         },
         {
@@ -888,7 +888,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-17T00:15:02Z",
+            "last_commit": "2026-05-23T01:19:34Z",
             "owner": "switcherapi",
             "repo": "switcher-client-deno",
             "stars": 2
@@ -998,10 +998,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-19T11:38:10Z",
+            "last_commit": "2026-05-22T09:15:57Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30560
+            "stars": 30571
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-04-13T01:26:28Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6536
+            "stars": 6540
           }
         },
         {
@@ -1447,7 +1447,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-04-28T16:57:18Z",
+            "last_commit": "2026-05-22T10:56:56Z",
             "owner": "denoland",
             "repo": "deno_docker",
             "stars": 1014
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-22T06:03:18.254Z",
+    "last_updated": "2026-05-23T05:37:09.096Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
