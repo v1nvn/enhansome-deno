@@ -23,7 +23,7 @@
             "last_commit": "2026-05-22T14:16:55Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3073
+            "stars": 3077
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-05-05T20:08:19Z",
             "owner": "c4spar",
             "repo": "cliffy",
-            "stars": 1153
+            "stars": 1154
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-05-10T19:44:03Z",
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11485
+            "stars": 11486
           }
         }
       ],
@@ -242,7 +242,7 @@
             "last_commit": "2026-05-24T04:41:04Z",
             "owner": "denodrivers",
             "repo": "redis",
-            "stars": 465
+            "stars": 466
           }
         },
         {
@@ -271,7 +271,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-27T06:15:54Z",
+            "last_commit": "2026-05-27T13:10:33Z",
             "owner": "denoland",
             "repo": "fresh",
             "stars": 13755
@@ -300,7 +300,7 @@
             "last_commit": "2024-10-28T09:07:24Z",
             "owner": "exhibitionist-digital",
             "repo": "ultra",
-            "stars": 2956
+            "stars": 2955
           }
         }
       ],
@@ -441,7 +441,7 @@
             "last_commit": "2023-09-19T01:16:18Z",
             "owner": "xcatliu",
             "repo": "pagic",
-            "stars": 1653
+            "stars": 1654
           }
         }
       ],
@@ -460,7 +460,7 @@
             "last_commit": "2026-05-25T18:39:27Z",
             "owner": "discordeno",
             "repo": "discordeno",
-            "stars": 937
+            "stars": 936
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-05-16T07:19:42Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3603
+            "stars": 3604
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-05-25T17:01:01Z",
             "owner": "Hexagon",
             "repo": "croner",
-            "stars": 2556
+            "stars": 2557
           }
         },
         {
@@ -862,7 +862,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-26T17:15:43Z",
+            "last_commit": "2026-05-27T21:08:36Z",
             "owner": "a-synchronous",
             "repo": "rubico",
             "stars": 283
@@ -888,7 +888,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T21:12:04Z",
+            "last_commit": "2026-05-28T00:02:09Z",
             "owner": "switcherapi",
             "repo": "switcher-client-deno",
             "stars": 2
@@ -1001,7 +1001,7 @@
             "last_commit": "2026-05-25T22:23:31Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30638
+            "stars": 30652
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-02-22T08:54:17Z",
             "owner": "oakserver",
             "repo": "oak",
-            "stars": 5407
+            "stars": 5408
           }
         },
         {
@@ -1447,7 +1447,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dockerfile",
-            "last_commit": "2026-05-22T10:56:56Z",
+            "last_commit": "2026-05-27T13:01:27Z",
             "owner": "denoland",
             "repo": "deno_docker",
             "stars": 1014
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-27T06:17:21.540Z",
+    "last_updated": "2026-05-28T06:08:46.950Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
