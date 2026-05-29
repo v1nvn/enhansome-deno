@@ -23,7 +23,7 @@
             "last_commit": "2026-05-22T14:16:55Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3077
+            "stars": 3079
           }
         },
         {
@@ -72,9 +72,9 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-26T20:37:27Z",
+            "last_commit": "2026-05-29T00:17:25Z",
             "owner": "jersou",
-            "repo": "clite-parser",
+            "repo": "cli-from",
             "stars": 10
           }
         },
@@ -114,7 +114,7 @@
             "last_commit": "2026-05-10T19:44:03Z",
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11486
+            "stars": 11489
           }
         }
       ],
@@ -457,7 +457,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-25T18:39:27Z",
+            "last_commit": "2026-05-28T23:56:11Z",
             "owner": "discordeno",
             "repo": "discordeno",
             "stars": 936
@@ -473,7 +473,7 @@
             "last_commit": "2026-05-16T07:19:42Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3604
+            "stars": 3607
           }
         },
         {
@@ -483,7 +483,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-23T18:47:52Z",
+            "last_commit": "2026-05-28T19:51:28Z",
             "owner": "MTKruto",
             "repo": "MTKruto",
             "stars": 162
@@ -678,7 +678,7 @@
             "last_commit": "2026-05-25T17:01:01Z",
             "owner": "Hexagon",
             "repo": "croner",
-            "stars": 2557
+            "stars": 2558
           }
         },
         {
@@ -998,10 +998,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-25T22:23:31Z",
+            "last_commit": "2026-05-28T10:39:03Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30652
+            "stars": 30669
           }
         },
         {
@@ -1197,7 +1197,7 @@
             "last_commit": "2025-12-15T21:53:53Z",
             "owner": "nats-io",
             "repo": "nats.deno",
-            "stars": 178
+            "stars": 179
           }
         },
         {
@@ -1514,7 +1514,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-05-07T09:06:49Z",
+                "last_commit": "2026-05-28T17:42:44Z",
                 "owner": "justjavac",
                 "repo": "dvm",
                 "stars": 705
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-28T06:08:46.950Z",
+    "last_updated": "2026-05-29T06:10:35.462Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
