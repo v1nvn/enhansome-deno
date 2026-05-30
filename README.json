@@ -23,7 +23,7 @@
             "last_commit": "2026-05-22T14:16:55Z",
             "owner": "cacjs",
             "repo": "cac",
-            "stars": 3079
+            "stars": 3081
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-05-05T20:08:19Z",
             "owner": "c4spar",
             "repo": "cliffy",
-            "stars": 1154
+            "stars": 1155
           }
         },
         {
@@ -72,9 +72,9 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-29T00:17:25Z",
+            "last_commit": "2026-05-29T22:22:06Z",
             "owner": "jersou",
-            "repo": "cli-from",
+            "repo": "clinfer",
             "stars": 10
           }
         },
@@ -274,7 +274,7 @@
             "last_commit": "2026-05-27T13:10:33Z",
             "owner": "denoland",
             "repo": "fresh",
-            "stars": 13755
+            "stars": 13757
           }
         },
         {
@@ -425,10 +425,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-26T17:45:56Z",
+            "last_commit": "2026-05-29T16:06:51Z",
             "owner": "lumeland",
             "repo": "lume",
-            "stars": 2260
+            "stars": 2261
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-05-16T07:19:42Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3607
+            "stars": 3608
           }
         },
         {
@@ -1001,7 +1001,7 @@
             "last_commit": "2026-05-28T10:39:03Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30669
+            "stars": 30688
           }
         },
         {
@@ -1514,7 +1514,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-05-28T17:42:44Z",
+                "last_commit": "2026-05-29T08:44:48Z",
                 "owner": "justjavac",
                 "repo": "dvm",
                 "stars": 705
@@ -1659,7 +1659,7 @@
             "last_commit": "2026-05-18T16:54:32Z",
             "owner": "denoland",
             "repo": "vscode_deno",
-            "stars": 1549
+            "stars": 1550
           }
         }
       ],
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-29T06:10:35.462Z",
+    "last_updated": "2026-05-30T05:44:59.201Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
