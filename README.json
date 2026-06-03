@@ -62,7 +62,7 @@
             "last_commit": "2026-05-31T21:04:35Z",
             "owner": "c4spar",
             "repo": "cliffy",
-            "stars": 1157
+            "stars": 1158
           }
         },
         {
@@ -72,7 +72,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-02T00:02:23Z",
+            "last_commit": "2026-06-02T22:25:36Z",
             "owner": "jersou",
             "repo": "clinfer",
             "stars": 10
@@ -88,7 +88,7 @@
             "last_commit": "2026-05-08T19:24:51Z",
             "owner": "AhmedOsman101",
             "repo": "commit-sage-cli",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -114,7 +114,7 @@
             "last_commit": "2026-05-10T19:44:03Z",
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11489
+            "stars": 11490
           }
         }
       ],
@@ -272,9 +272,9 @@
             "archived": false,
             "language": "TypeScript",
             "last_commit": "2026-05-27T13:10:33Z",
-            "owner": "denoland",
+            "owner": "freshframework",
             "repo": "fresh",
-            "stars": 13757
+            "stars": 13759
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2025-06-14T19:16:32Z",
             "owner": "matmen",
             "repo": "ImageScript",
-            "stars": 673
+            "stars": 675
           }
         },
         {
@@ -457,10 +457,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-01T13:51:52Z",
+            "last_commit": "2026-06-02T16:32:53Z",
             "owner": "discordeno",
             "repo": "discordeno",
-            "stars": 935
+            "stars": 937
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-05-16T07:19:42Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3612
+            "stars": 3615
           }
         },
         {
@@ -518,7 +518,7 @@
             "last_commit": "2026-04-25T18:35:44Z",
             "owner": "bgub",
             "repo": "eta",
-            "stars": 1723
+            "stars": 1724
           }
         },
         {
@@ -1001,7 +1001,7 @@
             "last_commit": "2026-06-02T04:58:45Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30749
+            "stars": 30773
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-05-30T10:00:03Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6546
+            "stars": 6547
           }
         },
         {
@@ -1501,7 +1501,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Shell",
-                "last_commit": "2026-04-07T01:06:11Z",
+                "last_commit": "2026-06-02T19:26:59Z",
                 "owner": "asdf-community",
                 "repo": "asdf-deno",
                 "stars": 134
@@ -1552,7 +1552,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-04-07T01:06:11Z",
+            "last_commit": "2026-06-02T19:26:59Z",
             "owner": "asdf-community",
             "repo": "asdf-deno",
             "stars": 134
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-02T06:39:06.232Z",
+    "last_updated": "2026-06-03T06:49:51.256Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
