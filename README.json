@@ -274,7 +274,7 @@
             "last_commit": "2026-06-03T14:35:24Z",
             "owner": "freshframework",
             "repo": "fresh",
-            "stars": 13757
+            "stars": 13758
           }
         },
         {
@@ -473,7 +473,7 @@
             "last_commit": "2026-05-16T07:19:42Z",
             "owner": "grammyjs",
             "repo": "grammY",
-            "stars": 3622
+            "stars": 3624
           }
         },
         {
@@ -483,7 +483,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-01T08:01:29Z",
+            "last_commit": "2026-06-07T21:12:57Z",
             "owner": "MTKruto",
             "repo": "MTKruto",
             "stars": 162
@@ -678,7 +678,7 @@
             "last_commit": "2026-06-05T00:16:37Z",
             "owner": "Hexagon",
             "repo": "croner",
-            "stars": 2558
+            "stars": 2559
           }
         },
         {
@@ -946,7 +946,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2025-11-16T04:14:26Z",
+            "last_commit": "2026-06-07T13:11:34Z",
             "owner": "Savory",
             "repo": "Danet",
             "stars": 518
@@ -962,7 +962,7 @@
             "last_commit": "2026-05-30T17:19:59Z",
             "owner": "drashland",
             "repo": "drash",
-            "stars": 1068
+            "stars": 1067
           }
         },
         {
@@ -998,10 +998,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-03T21:51:33Z",
+            "last_commit": "2026-06-07T08:19:21Z",
             "owner": "honojs",
             "repo": "hono",
-            "stars": 30848
+            "stars": 30860
           }
         },
         {
@@ -1041,7 +1041,7 @@
             "last_commit": "2026-02-22T08:54:17Z",
             "owner": "oakserver",
             "repo": "oak",
-            "stars": 5408
+            "stars": 5407
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-05-30T10:00:03Z",
             "owner": "ryo-ma",
             "repo": "github-profile-trophy",
-            "stars": 6549
+            "stars": 6551
           }
         },
         {
@@ -1677,7 +1677,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:20:50.045Z",
+    "last_updated": "2026-06-08T06:39:54.598Z",
     "original_repository": "denolib/awesome-deno",
     "source_repository": "v1nvn/enhansome-deno",
     "source_repository_description": null,
